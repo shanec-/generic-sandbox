@@ -1,2 +1,2 @@
 # generic-sandbox
-generic playground sandbox
+generic sandbox playground
